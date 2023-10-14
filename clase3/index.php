@@ -16,14 +16,19 @@
     $num1 = 50;
     $num2 = 25;
 
+    //Suma
     echo $num1 + $num2;
     echo "<br>";
+    //Resta
     echo $num1 - $num2;
     echo "<br>";
+    //Multiplicacion
     echo $num1 * $num2;
     echo "<br>";
+    //Division
     echo $num1 / $num2;
     echo "<br>";
+    //Resto
     echo $num1 % $num2;
 
     echo "<br>";
